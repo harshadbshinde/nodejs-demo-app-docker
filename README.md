@@ -357,56 +357,6 @@ If the test fails, the pipeline stops and the Docker image is not pushed.
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots of the completed task below.
-
-## 1. Node.js Application
-
-Add screenshot showing the application running:
-
-```text
-screenshots/application.png
-```
-
-## 2. Docker Image
-
-Add screenshot showing:
-
-```bash
-docker images
-```
-
-```text
-screenshots/docker-image.png
-```
-
-## 3. DockerHub Repository
-
-Add screenshot showing the DockerHub repository and image tag:
-
-```text
-screenshots/dockerhub.png
-```
-
-## 4. GitHub Actions
-
-Add screenshot showing the successful GitHub Actions workflow:
-
-```text
-screenshots/github-actions.png
-```
-
-## 5. Successful Pipeline
-
-Add screenshot showing all CI/CD steps completed successfully:
-
-```text
-screenshots/pipeline-success.png
-```
-
----
-
 # 🧪 Local Testing Commands
 
 ### Check Node.js
